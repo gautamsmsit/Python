@@ -1,3 +1,4 @@
+# refer to book 'Invent Your Own Computer Games with Python'
 import random
 
 # This function takes the board inputs details and draw it 
